@@ -1,0 +1,28 @@
+/* styles.css */
+body {
+    background-color: #f8f9fa; /* Color de fondo ligero */
+}
+
+.navbar {
+    background-color: #D52B1E; /* Rojo */
+}
+
+.navbar a {
+    color: white !important; /* Texto blanco en el menú */
+}
+
+.btn-primary {
+    background-color: #F6EB61; /* Amarillo */
+    border-color: #F6EB61;
+}
+
+.btn-success {
+    background-color: #009639; /* Verde */
+    border-color: #009639;
+}
+
+.footer {
+    background-color: #D52B1E; /* Rojo */
+    color: white;
+    padding: 10px 0;
+}
